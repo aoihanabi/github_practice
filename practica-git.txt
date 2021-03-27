@@ -1,1 +1,2 @@
-Archivo de práctica para el curso de git y github
+Archivo de práctica para el curso de git y github.
+Corrección del archivo.
